@@ -26,5 +26,5 @@ class Animal{
   Animal.name(this.name);
   Animal.age(this.age);
   Animal.weight(this.weight);
-
+  //constructor
 }

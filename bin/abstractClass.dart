@@ -1,6 +1,7 @@
 void main(){
   var kucing = Animal('Oren', 2, 2.2, 'Orange');
 
+  //abstract Class
   // kucing.walk();
   kucing.eat();
 
